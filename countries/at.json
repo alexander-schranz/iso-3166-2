@@ -1,11 +1,11 @@
-[
-    "AT-1",
-    "AT-2",
-    "AT-3",
-    "AT-4",
-    "AT-5",
-    "AT-6",
-    "AT-7",
-    "AT-8",
-    "AT-9"
-]
+{
+    "AT-1": "Burgenland",
+    "AT-2": "Carinthia",
+    "AT-3": "Lower Austria",
+    "AT-4": "Upper Austria",
+    "AT-5": "Salzburg",
+    "AT-6": "Styria",
+    "AT-7": "Tyrol",
+    "AT-8": "Vorarlberg",
+    "AT-9": "Vienna"
+}
