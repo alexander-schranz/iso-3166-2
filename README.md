@@ -1,4 +1,4 @@
-# ISO-3166-2
+# ISO 3166-2
 
 Complete Collection of json files for the country subdivision from ISO 3166-2.
 
