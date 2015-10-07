@@ -10,9 +10,10 @@ Feel free to contribute by add translates and co. for the ISO-3166-2.
 # Code Snippet to get the ISO from Wiki in Dev TOols
 
 ``` js
-console.log('{');
+var obj = {};
 $('.jquery-tablesorter tbody').first().find('td:first-child').each(function() {
-     console.log('    \'' + $.trim($(this).text()) + '\': \'' + $.trim($(this).next().text()) + '\',');
+     obj[$.trim($(this).text())] = $.trim($(this).next().text());
 });
-console.log('}');
+
+console.log(JSON.stringify(obj, null, 4));
 ```
