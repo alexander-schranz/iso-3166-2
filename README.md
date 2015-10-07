@@ -6,3 +6,13 @@ ISO 3166-2 https://en.wikipedia.org/wiki/ISO_3166-2
 
 This project is currently work in progress!  
 Feel free to contribute by add translates and co. for the ISO-3166-2.
+
+# Code Snippet to get the ISO from Wiki in Dev TOols
+
+``` js
+console.log('{');
+$('.jquery-tablesorter tbody').first().find('td:first-child').each(function() {
+     console.log('    \'' + $.trim($(this).text()) + '\': \'' + $.trim($(this).next().text()) + '\',');
+});
+console.log('}');
+```
