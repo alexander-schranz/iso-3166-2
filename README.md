@@ -4,8 +4,8 @@ Complete Collection of json files for the country subdivision from ISO 3166-2.
 
 ISO 3166-2 https://en.wikipedia.org/wiki/ISO_3166-2
 
-Complete Status (A-G)  
-![38%](http://progressed.io/bar/38)
+Complete Status (A-IL)  
+![41%](http://progressed.io/bar/41)
 
 # WIP
 
@@ -17,7 +17,7 @@ Feel free to contribute by add translates and co. for the ISO-3166-2.
 ``` js
 var obj = {};
 $('.jquery-tablesorter tbody').eq(0).find('td:first-child').each(function() {
-     obj[$.trim($(this).text())] = $.trim($(this).next().next().next().text());
+     obj[$.trim($(this).text())] = $.trim($(this).next().text());
 });
 
 console.log(JSON.stringify(obj, null, 4));
