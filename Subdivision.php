@@ -80,7 +80,7 @@ class Subdivision
      *
      * @return array
      */
-    public static function getSubdivision($countryCode, $locale = null)
+    public static function getSubdivisions($countryCode, $locale = null)
     {
         return self::loadSubdivisionFile($countryCode, $locale);
     }
