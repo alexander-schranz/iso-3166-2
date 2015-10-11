@@ -82,6 +82,9 @@ class Subdivision
      */
     public static function getSubdivisions($countryCode, $locale = null)
     {
-        return self::loadSubdivisionFile($countryCode, $locale);
+        return self::loadSubdivisionFile(
+            strtolower($countryCode), 
+            strtolower($locale)
+        );
     }
 }
