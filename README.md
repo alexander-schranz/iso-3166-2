@@ -4,6 +4,12 @@ Complete Collection of json files for the country subdivision from ISO 3166-2.
 
 ISO 3166-2 https://en.wikipedia.org/wiki/ISO_3166-2
 
+# Usage
+
+``` php
+$ukSubdivisions = \L91\ISO_3166_2\Subdivision::getSubdivisions('gb');
+```
+
 # Folder Structure
 
  - subdivisions (all subdivisions by countrycode)
