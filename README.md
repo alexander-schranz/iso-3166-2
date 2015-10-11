@@ -4,15 +4,17 @@ Complete Collection of json files for the country subdivision from ISO 3166-2.
 
 ISO 3166-2 https://en.wikipedia.org/wiki/ISO_3166-2
 
-Complete Status (A-IL)  
-![41%](http://progressed.io/bar/41)
-
 # WIP
 
 This project is currently work in progress!  
-Feel free to contribute by add translates and co. for the ISO-3166-2.
+Feel free to contribute by add translates and co. from the ISO-3166-2.
 
-# Code Snippet to get the ISO from Wiki in Dev Tools
+|                    | Progress                                 |
+|--------------------|------------------------------------------|
+| EN                 | ![100%](http://progressed.io/bar/100)    |
+| Specific Languages | ![1%](http://progressed.io/bar/1)        |
+
+**Code Snippet to get the ISO from Wiki in Dev Tools**
 
 ``` js
 var obj = {};
