@@ -1,0 +1,21 @@
+{
+    "name": "l91/iso-3166-2",
+    "description": "PHP Lib for ISO 3166-2",
+    "require": {
+        "php": ">=5.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexander Schranz",
+            "email": "alex.schranz91@gmail.com"
+        }
+    ],
+    "homepage": "https://https://github.com/alexander-schranz/iso-3166-2",
+    "autoload": {
+        "psr-0": {
+            "L91\\ISO_3166_2": ""
+        }
+    },
+    "target-dir": "L91/ISO_3166_2"
+}
