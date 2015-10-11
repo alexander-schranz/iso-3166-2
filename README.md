@@ -18,9 +18,9 @@ $ukSubdivisions = \L91\ISO_3166_2\Subdivision::getSubdivisions('gb');
 **Example:**
 
  - subdivisions
-   - at.json (all subdivisions from austria)
+   - at.json (all subdivisions from austria in the default/country language)
    - at 
-     - de.json (german translated subdivisions)
+     - en.json (english translated subdivisions)
   
 
 # Contribute

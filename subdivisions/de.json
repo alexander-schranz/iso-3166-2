@@ -1,18 +1,18 @@
 {
     "DE-BW": "Baden-Württemberg",
-    "DE-BY": "Bavaria",
+    "DE-BY": "Bayern",
     "DE-BE": "Berlin",
     "DE-BB": "Brandenburg",
     "DE-HB": "Bremen",
     "DE-HH": "Hamburg",
-    "DE-HE": "Hesse",
-    "DE-MV": "Mecklenburg-Western Pomerania",
-    "DE-NI": "Lower Saxony",
-    "DE-NW": "North Rhine-Westphalia",
-    "DE-RP": "Rhineland-Palatinate",
+    "DE-HE": "Hessen",
+    "DE-MV": "Mecklenburg-Vorpommern",
+    "DE-NI": "Niedersachsen",
+    "DE-NW": "Nordrhein-Westfalen",
+    "DE-RP": "Rheinland-Pfalz",
     "DE-SL": "Saarland",
-    "DE-SN": "Saxony",
-    "DE-ST": "Saxony-Anhalt",
+    "DE-SN": "Sachsen",
+    "DE-ST": "Sachsen-Anhalt",
     "DE-SH": "Schleswig-Holstein",
-    "DE-TH": "Thuringia"
+    "DE-TH": "Thüringen"
 }
