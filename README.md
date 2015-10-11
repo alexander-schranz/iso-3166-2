@@ -4,15 +4,27 @@ Complete Collection of json files for the country subdivision from ISO 3166-2.
 
 ISO 3166-2 https://en.wikipedia.org/wiki/ISO_3166-2
 
-# WIP
+# Folder Structure
 
-This project is currently work in progress!  
+ - subdivisions (all subdivisions by countrycode)
+  - countrycode (specific translations)
+ 
+**Example:**
+
+ - subdivisions
+   - at.json (all subdivisions from austria)
+   - at 
+    - de.json (german translated subdivisions)
+  
+
+# Contribute
+
 Feel free to contribute by add translates and co. from the ISO-3166-2.
 
-|                    | Progress                                 |
-|--------------------|------------------------------------------|
-| EN                 | ![100%](http://progressed.io/bar/100)    |
-| Specific Languages | ![1%](http://progressed.io/bar/1)        |
+|                     | Progress                                 |
+|---------------------|------------------------------------------|
+| Subdivisions        | ![100%](http://progressed.io/bar/100)    |
+| Specific Translates | ![1%](http://progressed.io/bar/1)        |
 
 **Code Snippet to get the ISO from Wiki in Dev Tools**
 
