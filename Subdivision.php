@@ -35,10 +35,11 @@ class Subdivision
     
     /**
      * @param string $path
+     * @param bool $assoc
      *
      * @return array
      */ 
-    protected static function loadJsonFile($path) 
+    protected static function loadJsonFile($path, $assoc = false) 
     {
         $data = array();
         
