@@ -1,15 +1,15 @@
 {
     "CA-AB": "Alberta",
-    "CA-BC": "British Columbia",
+    "CA-BC": "British Columbia ! Colombie-Britannique",
     "CA-MB": "Manitoba",
-    "CA-NB": "New Brunswick",
-    "CA-NL": "Newfoundland and Labrador",
-    "CA-NS": "Nova Scotia",
+    "CA-NB": "New Brunswick ! Nouveau-Brunswick",
+    "CA-NL": "Newfoundland and Labrador ! Terre-Neuve-et-Labrador",
+    "CA-NS": "Nova Scotia ! Nouvelle-Écosse",
     "CA-ON": "Ontario",
-    "CA-PE": "Prince Edward Island",
-    "CA-QC": "Quebec",
+    "CA-PE": "Prince Edward Island ! Île-du-Prince-Édouard",
+    "CA-QC": "Quebec ! Québec",
     "CA-SK": "Saskatchewan",
-    "CA-NT": "Northwest Territories",
+    "CA-NT": "Northwest Territories ! Territoires du Nord-Ouest",
     "CA-NU": "Nunavut",
     "CA-YT": "Yukon"
 }
